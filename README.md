@@ -25,7 +25,7 @@
  
  - :triangular_ruler: Junior software architect
 
- - :bulb: Intrested in Design thinking Methodology
+ - :bulb: Intrested in Design Thinking Methodology
  
  - :sparkles: Domain driven desgin with Spring framework & Micro-services architecture
  
