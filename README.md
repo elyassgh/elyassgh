@@ -19,7 +19,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
+  <h3> I'm 21 years old, Software Engineer, Full-Stack developer from morocco.</h3>
 </p>
 
  - 🥀 Learning GraphQl NextJs
@@ -32,17 +32,13 @@
  
  - I do ReactJS & Angular for front-end dev.
 
- - I do ReactJS & Angular for front-end dev.
+ - Familiar with OS & Embeded Systems.
  
   
  <p align="center">
   <h4> Agile | Kanban | JIT </h4>
  </p>
 
-
-
-
-<!--  -->
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -60,11 +56,11 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/typescript.svg" alt="TypeScript" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/angularjs.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
@@ -74,11 +70,15 @@
 </p>
 
    
-   <p align="center" >
+<p align="center" >
 <div>
-https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats
+https://github-readme-stats.vercel.app/api?username=elyassgh&show_icons=true&theme=radical
 </div>
-   </p>
+
+<div>
+https://github-readme-stats.vercel.app/api/top-langs/?username=elyassgh&layout=compact)](https://github.com/anuraghazra/github-readme-stats
+</div>
+</p>
   
 
    
