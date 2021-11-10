@@ -17,7 +17,6 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
   <h3> I'm 21 years old, Software Engineer, Full-Stack developer from morocco.</h3>
 </p>
@@ -54,29 +53,34 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">  
+  <img src="svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:6px 4px">  
+
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin: 4px">
+  <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
+   
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/angularjs.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+
 </p>
 
    
 <p align="center" >
 <div>
-https://github-readme-stats.vercel.app/api?username=elyassgh&show_icons=true&theme=radical
-</div>
-
-<div>
-https://github-readme-stats.vercel.app/api/top-langs/?username=elyassgh&layout=compact)](https://github.com/anuraghazra/github-readme-stats
+   <img src="https://github-readme-stats.vercel.app/api?username=elyassgh&show_icons=true&theme=radical">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyassgh&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 </div>
 </p>
   
