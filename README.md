@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Elghazi Ilyass |  Full Stack 💻 Developer | Morocco <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Elghazi Ilyass |  Full Stack 💻 Developer | Morocco 🇲🇦 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
@@ -21,13 +21,13 @@
   <h3> I'm 21 years old, Software Engineer, Full-Stack developer from morocco.</h3>
 </p>
 
- - :books: Learning GraphQl NextJs
+ - :books: Learning NextJs, NgRx, AWS, ...
  
  - :triangular_ruler: Junior software architect
 
  - :bulb: Intrested in Design thenking Methodology
  
- - :sparkles: Domain driven desgin with Spring framework
+ - :sparkles: Domain driven desgin with Spring framework & Micro-services architecture
  
  - :globe_with_meridians: I do ReactJS & Angular for front-end dev.
 
@@ -64,17 +64,22 @@
 </p>
 
    
-<p align="center" style="dispaly: flex; algin-items: center" >
+<p align="center" >
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
       <img  src="https://github-readme-stats.vercel.app/api?username=elyassgh&&show_icons=true&theme=radical"/>
    </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+</p>
+
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats"> 
       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyassgh&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
    </a>
 </p>
+
+
   
 
    
 <br />
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Stay awesome ❤️</i>⚡️</h1>
