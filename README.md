@@ -19,7 +19,7 @@
 
  - :books: Learning NextJs, NgRx, AWS, ...
  
- - :triangular_ruler: Software architect enenthusiast
+ - :triangular_ruler: Software architect enthusiast
 
  - :bulb: Intrested in Design Thinking Methodology
  
