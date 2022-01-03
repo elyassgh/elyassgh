@@ -8,12 +8,8 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/e_elghazi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_born_may?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@e_elghazi"></a>
+   <a href="https://twitter.com/e_elghazi"></a>
  </p>
- 
- <h5 align="center">
-   <i>⚡️ Currently searching for a final year intership ⚡️</i>
-  </h5>
  
  
 <br />
