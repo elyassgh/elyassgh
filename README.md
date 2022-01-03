@@ -23,11 +23,11 @@
 
  - :books: Learning NextJs, NgRx, AWS, ...
  
- - :triangular_ruler: Junior software architect
+ - :triangular_ruler: Software architect enenthusiast
 
  - :bulb: Intrested in Design Thinking Methodology
  
- - :sparkles: Domain driven desgin with Spring framework & Micro-services architecture
+ - :sparkles: Domain driven design with Spring framework & Micro-services architecture
  
  - :globe_with_meridians: I do ReactJS & Angular for front-end dev.
 
@@ -35,7 +35,7 @@
  
   
  <p align="center">
-  <h4> Agile | Kanban | JIT </h4>
+  <h4> Agile | Kanban | JIT</h4>
  </p>
 
 <br />
