@@ -17,9 +17,9 @@
   <h3> I'm 21 years old, Software Engineer, Full-Stack developer from morocco.</h3>
 </p>
 
- - :books: Learning NextJs, NgRx, AWS, ...
+ - :books: Learning NextJs, AWS, ...
  
- - :triangular_ruler: Software architect enthusiast
+ - :triangular_ruler: Software architecture enthusiast
 
  - :bulb: Intrested in Design Thinking Methodology
  
